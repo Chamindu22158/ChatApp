@@ -59,7 +59,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/chami/Documents/2nd Semester/ChatApp",
+    "last_opened_file_path": "C:/Users/chami/Documents/2nd Semester/POS/POS-management-System/assest/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,6 +72,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chami\Documents\2nd Semester\POS\POS-management-System\assest\images" />
       <recent name="F:\my_projects\POS-management-System\assest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -118,7 +119,7 @@
       <workItem from="1747815426634" duration="1990000" />
       <workItem from="1747846030865" duration="1357000" />
       <workItem from="1748010483344" duration="2555000" />
-      <workItem from="1748061369999" duration="302000" />
+      <workItem from="1748061369999" duration="2077000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <option name="closed" value="true" />
@@ -152,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730485002346</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updates">
+      <option name="closed" value="true" />
+      <created>1748061800675</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748061800675</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
